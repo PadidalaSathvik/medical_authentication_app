@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666674525579",
+    "project_id": "health-records-c0a16",
+    "storage_bucket": "health-records-c0a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666674525579:android:2ad6ff7a2d1474b085eb8e",
+        "android_client_info": {
+          "package_name": "com.example.healthrecords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666674525579-cjq4jrtdgi87sfsscam38prilmof79no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz43Dm8H8XHhtE_exVYq7YQb1bmH4vpf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666674525579-cjq4jrtdgi87sfsscam38prilmof79no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
